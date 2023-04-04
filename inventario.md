@@ -1,6 +1,7 @@
 2043953
 2046423
-##Componenti 
+## Componenti 
 * Processori 
 * Schede Madri
+
 *Elettronica Padovana* 
